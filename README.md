@@ -11,12 +11,12 @@ Testar a função `linguagemDosGatosECachorros`, que recebe um animal ("cachorro
 📁 Estrutura do Repositório
 
 ├── src/
-│   └── comunicacao.js          
+  └── comunicacao.js          
 └── test/
     └── comunicacao.test.js      
 
 
- 🚀 Passo a passo para rodar os testes
+ Passo a passo para rodar os testes
 1. Clone o repositório
 git clone <URL-do-repo>
 cd <nome-da-pasta>
